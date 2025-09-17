@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open-source full-stack or AI-related projects
 - 💬 Ask me about React, Express.js, PostgreSQL, and sentiment analysis in NLP
 - 📫 How to reach me: aliktepl@gmail.com
-- ⚡ Fun fact: My projects often combine data analysis with modern UI design
